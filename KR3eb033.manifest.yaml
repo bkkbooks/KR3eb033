@@ -1,0 +1,337 @@
+canonical_identifier: bkk:krp/KR3eb033/v1
+canonical_location: https://kanripo.org/bkk/KR3eb033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈學類編
+  identifiers:
+    krp: KR3eb033
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb033.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb033_000.yaml, hash: 'sha256:1e78bf9dd28927ea4be8f83c887ecfc0263b377ca959b36bd4a2eb1f6d12964c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb033_000.markers.yaml, hash: 'sha256:78350ab913479db85c51ad2b13b018ff466d94ad28e416490f02cd36369df702'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 446
+  label: 四言舉要類編自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 128
+  label: 考證諸書目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4.h1s1
+    span:
+    - body
+    - 128
+    - 18947
+  label: 脈學類編
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d4
+    span:
+    - body
+    - 212
+    - 4276
+  label: 舉要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d5
+    span:
+    - body
+    - 4276
+    - 4482
+  label: 洪脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d6
+    span:
+    - body
+    - 4482
+    - 4603
+  label: 虛脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d7
+    span:
+    - body
+    - 4603
+    - 4813
+  label: 散脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d8
+    span:
+    - body
+    - 4813
+    - 4967
+  label: 芤脈陽中陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d9
+    span:
+    - body
+    - 4967
+    - 5123
+  label: 濡脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d10
+    span:
+    - body
+    - 5123
+    - 5256
+  label: 微脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d11
+    span:
+    - body
+    - 5256
+    - 5431
+  label: 沉脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d12
+    span:
+    - body
+    - 5431
+    - 5556
+  label: 伏脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d13
+    span:
+    - body
+    - 5556
+    - 5647
+  label: 牢脈陰中陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d14
+    span:
+    - body
+    - 5647
+    - 5796
+  label: 實脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d15
+    span:
+    - body
+    - 5796
+    - 5998
+  label: 弱脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d16
+    span:
+    - body
+    - 5998
+    - 6130
+  label: 細脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d17
+    span:
+    - body
+    - 6130
+    - 6301
+  label: 遲脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d18
+    span:
+    - body
+    - 6301
+    - 6502
+  label: 緩脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d19
+    span:
+    - body
+    - 6502
+    - 6599
+  label: 革脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d20
+    span:
+    - body
+    - 6599
+    - 6794
+  label: 澀脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d21
+    span:
+    - body
+    - 6794
+    - 6916
+  label: 結脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d22
+    span:
+    - body
+    - 6916
+    - 7055
+  label: 代脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d23
+    span:
+    - body
+    - 7055
+    - 7236
+  label: 數脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d24
+    span:
+    - body
+    - 7236
+    - 7364
+  label: 滑脈陽中陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d25
+    span:
+    - body
+    - 7364
+    - 7535
+  label: 緊脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d26
+    span:
+    - body
+    - 7535
+    - 7676
+  label: 促脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d27
+    span:
+    - body
+    - 7676
+    - 7870
+  label: 動脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d28
+    span:
+    - body
+    - 7870
+    - 7973
+  label: 長脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d29
+    span:
+    - body
+    - 7973
+    - 8228
+  label: 弦脈陽中陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d30
+    span:
+    - body
+    - 8228
+    - 8343
+  label: 短脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb033_jc_000-d4d31
+    span:
+    - body
+    - 8343
+    - 18947
+  label: 切脈論證
+  type: section
+  level: 2
+hash: sha256:f909579973d4bdcc075ffa43428a89fcfeb3c836df3224b4b5328f25881c7db9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
