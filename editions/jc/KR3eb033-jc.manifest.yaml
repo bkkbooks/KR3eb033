@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb033_000-jc.yaml, hash: 'sha256:c6d2927829ba6a5af679ebd87d602c6a3c68de846435ef643a601687112182eb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb033_000-jc.markers.yaml, hash: 'sha256:b405dfb3a03437059f27941766e9306bc8f98b5f4508b31847f5ea623d02db41'}
+  - {seq: 0, role: markers, filename: assets/KR3eb033_000-jc.markers.yaml, hash: 'sha256:d3d7db5918d858aec5231a8911756c5de0a319e822fc33fb831daeaeeaa67f02'}
 table_of_contents:
 - ref:
     seq: 0
@@ -331,4 +331,4 @@ table_of_contents:
   label: 切脈論證
   type: section
   level: 2
-hash: sha256:99095638942e6616e4b87a16e088f089a0101e50ae15cce783bb7b472c4e4b6f
+hash: sha256:b662d82887802b6341398f32925606d1c35eb72814ed4f1e8bd24d5de887e057
